@@ -73,7 +73,7 @@ Our solution leverages **Long Short-Term Memory (LSTM)** neural networks, which 
 
 ## 📊 Results & Performance
 
-*[Add your model's performance metrics, accuracy, precision, recall, etc.]*
+**TBD** — metrics are in the training notebook (). Run the final evaluation cell to reproduce them.
 
 ---
 
@@ -87,7 +87,7 @@ Our solution leverages **Long Short-Term Memory (LSTM)** neural networks, which 
 
 ## 📝 License
 
-*[Add your license information]*
+MIT License — see [LICENSE](./LICENSE) for details.
 
 ---
 
