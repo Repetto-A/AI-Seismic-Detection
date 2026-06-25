@@ -87,7 +87,7 @@ Our solution leverages **Long Short-Term Memory (LSTM)** neural networks, which 
 
 ## 📝 License
 
-*[Add your license information]*
+MIT License
 
 ---
 
