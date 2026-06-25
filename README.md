@@ -71,12 +71,6 @@ Our solution leverages **Long Short-Term Memory (LSTM)** neural networks, which 
 
 ---
 
-## 📊 Results & Performance
-
-*[Add your model's performance metrics, accuracy, precision, recall, etc.]*
-
----
-
 ## 🔗 Resources
 
 - [NASA Space Apps Challenge](https://www.spaceappschallenge.org/)
